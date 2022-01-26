@@ -21,3 +21,15 @@ Screen sharing (picture-based)
 Video calling (p2p video calling based on WebRTC)
 Distributed deployment (unified messaging via kafka global message queue, which allows horizontal scaling of the system)
 ```
+# Back-end technologies and frameworks
+```
+web framework Gin
+Long connection WebSocket
+Logging framework Uber's zap
+Configuration management viper
+ORM framework gorm
+communication protocol Google's proto buffer
+makefile writing
+Database MySQL
+Image file binary manipulation
+```
