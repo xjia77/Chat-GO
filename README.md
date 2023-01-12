@@ -1,4 +1,4 @@
-# Chat-GO
+# Chat-GO Project
 ```
 Use Go's WebSocket-based communication chat software.
 ```
